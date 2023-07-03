@@ -1,0 +1,10 @@
+Back End - 
+
+criar um banco de dados que serão inseridos os seguintes dados:
+
+---- cliente, produtos, servicos e horarios disponiveis.
+
+Funcionalidades: 
+
+Cadastro e Login, sistema C.R.U.D. para a aplicacao junto com o sistema de Carrinho de Compras para o cliente poder
+salvar os servicos e produtos que deseja 
