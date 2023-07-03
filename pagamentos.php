@@ -19,10 +19,10 @@
 
 		<header id="home-pagamentos">
 				<div>
-					<a href="index.php">Voltar</a>
+					<a style="text-decoration: none;" href="index.php">Voltar</a>
 				</div>		
 				<div class="logo">
-					<a href="index.php"><h1>Logo</h1></a>
+					<a href="index.php"><img style="width: 70px; height: 70px;" src="fotosClientes/lidia-logo.jpeg"></a>
 				</div>
 
 				<div class="icons">
@@ -50,7 +50,7 @@
 						</div>
 					<? } ?>		
 				</div>
-				<button	type="submit" id="pagar">Agendar o Horário!</button>
+				<button	style="margin-bottom: 20px;" type="submit" id="pagar">Agendar o Horário!</button>
 			</div>
 		</section>
 
