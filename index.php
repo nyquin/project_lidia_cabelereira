@@ -74,11 +74,10 @@
 							<h1>Minha Carreira e Trabalhos</h1>
 						</div>	
 							<br />
-						<div class="conteudoTrabalhosCarreira">
-							
-							<p>A minha história como cabeleleira começou quando...</p>
+						<div class="conteudoTrabalhosCarreira" style="width: 70%; text-align: center;">		
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique, turpis a consequat maximus, mi quam molestie dui, vitae sagittis mauris erat a lacus. Phasellus pulvinar non nulla ut elementum.</p>
 							<br />
-							<p>Desde então venho fazendo...</p>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique, turpis a consequat maximus, mi quam molestie dui, vitae sagittis mauris erat a lacus. Phasellus pulvinar non nulla ut elementum.</p>
 							<br/>
 						</div>
 
